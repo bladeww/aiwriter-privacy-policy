@@ -82,3 +82,36 @@ This Privacy Policy complies with:
 - Google Play Developer Program Policies
 - General Data Protection Regulation (GDPR)
 - California Consumer Privacy Act (CCPA)
+
+- ## Data Deletion
+
+### What Data Can Be Deleted
+
+1. User Profile Information
+   - Email address
+   - Account settings
+   - Profile preferences
+
+2. Usage Data
+   - Writing history
+   - Generated content
+   - Usage statistics
+
+3. Payment Information
+   - Purchase history
+   - Transaction records
+
+### How to Request Data Deletion
+
+To request deletion of your data:
+
+1. Send an email to: wang.wei0821@gmail.com
+2. Include in your email:
+   - The email address associated with your account
+   - What specific data you want to delete
+   - Any additional information to help us identify your data
+
+### Processing Time
+- We will process your request within 30 days
+- You will receive a confirmation email once your data has been deleted
+- If we need additional information, we will contact you via email
