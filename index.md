@@ -83,7 +83,7 @@ This Privacy Policy complies with:
 - General Data Protection Regulation (GDPR)
 - California Consumer Privacy Act (CCPA)
 
-- ## Data Deletion
+## Data Deletion
 
 ### What Data Can Be Deleted
 
